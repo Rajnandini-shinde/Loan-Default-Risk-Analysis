@@ -108,6 +108,13 @@ Key views:
 * Page 1:Loan Default Risk Overview
 * Page 2: Credit Risk
 * Page 3: High Risk Manual Review Queue
+
+## Project Structure
+* REDADME.md - Project Ovreview, objectives,findings,and documentation.
+* loan_risk_analysis.sql - SQL queries and risk analysis logic.
+* Page 1- Loan risk overview dashboard.
+* Page 2- credit risk.
+* Page 3- High risk application review queue.
   
 ## Skills Demonstrated
 
